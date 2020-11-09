@@ -47,7 +47,7 @@
       <username>nagappannagappan</username>
       <password>Qwerty@123</password>
       <applicationName>nexus-demo</applicationName>
-      <environment>sandbox</environment>
+      <environment>Sandbox</environment>
       
   </cloudHubDeployment>
 				</configuration>
