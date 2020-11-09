@@ -43,7 +43,7 @@
 				<configuration>
 				<cloudHubDeployment>
       <uri>https://anypoint.mulesoft.com/</uri>
-      <muleVersion>4.1.4</muleVersion>
+      <muleVersion>4.2.2</muleVersion>
       <username>nagappannagappan</username>
       <password>Qwerty@123</password>
       <applicationName>nexus-demo</applicationName>
