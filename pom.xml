@@ -48,7 +48,8 @@
       <password>Qwerty@123</password>
       <applicationName>nexus-demo</applicationName>
       <environment>Sandbox</environment>
-      
+      <workers>1</workers>
+<workerType>micro</workerType>
   </cloudHubDeployment>
 				</configuration>
 			</plugin>
